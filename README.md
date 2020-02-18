@@ -9,7 +9,10 @@ Collaborators::
 Collaborators are totally free to use this repo as a "sandpit" :-)
 
 
-
 # Visualisation tools::
 - SourceTree
 - GitKraken
+
+
+# Best Practices
+https://deepsource.io/blog/git-best-practices/
